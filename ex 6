@@ -1,0 +1,10 @@
+import matplotlib.pyplot as plt
+x=[1,2,3,4]
+y=[10,20,25,30]
+plt.plot(x,y)
+plt.show()
+
+
+<img width="556" height="413" alt="download" src="https://github.com/user-attachments/assets/b08052f4-1f73-48c6-9b4e-8290c607fbbc" />
+
+<img width="556" height="413" alt="download" src="https://github.com/user-attachments/assets/7538ff9f-9b73-41d1-8fc9-4f37403df125" />
