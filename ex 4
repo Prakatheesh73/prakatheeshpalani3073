@@ -1,0 +1,15 @@
+text="karauppan "
+print(text.upper())
+f=open("Sample.txt","w")
+f.write(text)
+f.close()
+f=open("Sample.txt","r")
+print(f.read())
+f.close()
+
+
+
+
+KARAUPPAN 
+karauppan 
+​
